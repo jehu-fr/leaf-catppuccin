@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790" role="img" aria-labelledby="title desc">
+  <title id="title">Catppuccin Frappé palette</title>
+  <desc id="desc">The 26 colors of the Catppuccin Frappé palette, with Mauve as the accent.</desc>
+  <rect width="1200" height="790" fill="#303446"/>
+  <text x="60" y="66" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="700">Catppuccin Frappé</text>
+  <text x="60" y="102" fill="#ca9ee6" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Mauve accent · #ca9ee6</text>
+  <text x="60" y="132" fill="#838ba7" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14">26 colors · catppuccin.com/palette</text>
+  <g>
+    <rect x="60" y="158" width="200" height="64" rx="9" fill="#f2d5cf" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="183" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Rosewater</text>
+    <text x="72" y="204" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#f2d5cf</text>
+  </g>
+  <g>
+    <rect x="276" y="158" width="200" height="64" rx="9" fill="#eebebe" stroke="#51576d" stroke-width="1"/>
+    <text x="288" y="183" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Flamingo</text>
+    <text x="288" y="204" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#eebebe</text>
+  </g>
+  <g>
+    <rect x="492" y="158" width="200" height="64" rx="9" fill="#f4b8e4" stroke="#51576d" stroke-width="1"/>
+    <text x="504" y="183" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Pink</text>
+    <text x="504" y="204" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#f4b8e4</text>
+  </g>
+  <g>
+    <rect x="708" y="158" width="200" height="64" rx="9" fill="#ca9ee6" stroke="#51576d" stroke-width="1"/>
+    <text x="720" y="183" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Mauve</text>
+    <text x="720" y="204" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#ca9ee6</text>
+  </g>
+  <g>
+    <rect x="924" y="158" width="200" height="64" rx="9" fill="#e78284" stroke="#51576d" stroke-width="1"/>
+    <text x="936" y="183" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Red</text>
+    <text x="936" y="204" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#e78284</text>
+  </g>
+  <g>
+    <rect x="60" y="258" width="200" height="64" rx="9" fill="#ea999c" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="283" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Maroon</text>
+    <text x="72" y="304" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#ea999c</text>
+  </g>
+  <g>
+    <rect x="276" y="258" width="200" height="64" rx="9" fill="#ef9f76" stroke="#51576d" stroke-width="1"/>
+    <text x="288" y="283" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Peach</text>
+    <text x="288" y="304" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#ef9f76</text>
+  </g>
+  <g>
+    <rect x="492" y="258" width="200" height="64" rx="9" fill="#e5c890" stroke="#51576d" stroke-width="1"/>
+    <text x="504" y="283" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Yellow</text>
+    <text x="504" y="304" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#e5c890</text>
+  </g>
+  <g>
+    <rect x="708" y="258" width="200" height="64" rx="9" fill="#a6d189" stroke="#51576d" stroke-width="1"/>
+    <text x="720" y="283" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Green</text>
+    <text x="720" y="304" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#a6d189</text>
+  </g>
+  <g>
+    <rect x="924" y="258" width="200" height="64" rx="9" fill="#81c8be" stroke="#51576d" stroke-width="1"/>
+    <text x="936" y="283" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Teal</text>
+    <text x="936" y="304" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#81c8be</text>
+  </g>
+  <g>
+    <rect x="60" y="358" width="200" height="64" rx="9" fill="#99d1db" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="383" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Sky</text>
+    <text x="72" y="404" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#99d1db</text>
+  </g>
+  <g>
+    <rect x="276" y="358" width="200" height="64" rx="9" fill="#85c1dc" stroke="#51576d" stroke-width="1"/>
+    <text x="288" y="383" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Sapphire</text>
+    <text x="288" y="404" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#85c1dc</text>
+  </g>
+  <g>
+    <rect x="492" y="358" width="200" height="64" rx="9" fill="#8caaee" stroke="#51576d" stroke-width="1"/>
+    <text x="504" y="383" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Blue</text>
+    <text x="504" y="404" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#8caaee</text>
+  </g>
+  <g>
+    <rect x="708" y="358" width="200" height="64" rx="9" fill="#babbf1" stroke="#51576d" stroke-width="1"/>
+    <text x="720" y="383" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Lavender</text>
+    <text x="720" y="404" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#babbf1</text>
+  </g>
+  <g>
+    <rect x="924" y="358" width="200" height="64" rx="9" fill="#c6d0f5" stroke="#51576d" stroke-width="1"/>
+    <text x="936" y="383" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Text</text>
+    <text x="936" y="404" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#c6d0f5</text>
+  </g>
+  <g>
+    <rect x="60" y="458" width="200" height="64" rx="9" fill="#b5bfe2" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="483" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Subtext 1</text>
+    <text x="72" y="504" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#b5bfe2</text>
+  </g>
+  <g>
+    <rect x="276" y="458" width="200" height="64" rx="9" fill="#a5adce" stroke="#51576d" stroke-width="1"/>
+    <text x="288" y="483" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Subtext 0</text>
+    <text x="288" y="504" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#a5adce</text>
+  </g>
+  <g>
+    <rect x="492" y="458" width="200" height="64" rx="9" fill="#949cbb" stroke="#51576d" stroke-width="1"/>
+    <text x="504" y="483" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Overlay 2</text>
+    <text x="504" y="504" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#949cbb</text>
+  </g>
+  <g>
+    <rect x="708" y="458" width="200" height="64" rx="9" fill="#838ba7" stroke="#51576d" stroke-width="1"/>
+    <text x="720" y="483" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Overlay 1</text>
+    <text x="720" y="504" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#838ba7</text>
+  </g>
+  <g>
+    <rect x="924" y="458" width="200" height="64" rx="9" fill="#737994" stroke="#51576d" stroke-width="1"/>
+    <text x="936" y="483" fill="#303446" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Overlay 0</text>
+    <text x="936" y="504" fill="#303446" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#737994</text>
+  </g>
+  <g>
+    <rect x="60" y="558" width="200" height="64" rx="9" fill="#626880" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="583" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Surface 2</text>
+    <text x="72" y="604" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#626880</text>
+  </g>
+  <g>
+    <rect x="276" y="558" width="200" height="64" rx="9" fill="#51576d" stroke="#51576d" stroke-width="1"/>
+    <text x="288" y="583" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Surface 1</text>
+    <text x="288" y="604" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#51576d</text>
+  </g>
+  <g>
+    <rect x="492" y="558" width="200" height="64" rx="9" fill="#414559" stroke="#51576d" stroke-width="1"/>
+    <text x="504" y="583" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Surface 0</text>
+    <text x="504" y="604" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#414559</text>
+  </g>
+  <g>
+    <rect x="708" y="558" width="200" height="64" rx="9" fill="#303446" stroke="#51576d" stroke-width="1"/>
+    <text x="720" y="583" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Base</text>
+    <text x="720" y="604" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#303446</text>
+  </g>
+  <g>
+    <rect x="924" y="558" width="200" height="64" rx="9" fill="#292c3c" stroke="#51576d" stroke-width="1"/>
+    <text x="936" y="583" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Mantle</text>
+    <text x="936" y="604" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#292c3c</text>
+  </g>
+  <g>
+    <rect x="60" y="658" width="200" height="64" rx="9" fill="#232634" stroke="#51576d" stroke-width="1"/>
+    <text x="72" y="683" fill="#c6d0f5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Crust</text>
+    <text x="72" y="704" fill="#c6d0f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">#232634</text>
+  </g>
+  <text x="60" y="758" fill="#838ba7" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Unofficial Catppuccin Frappé theme for leaf · github.com/jehu-fr/leaf-catppuccin</text>
+</svg>

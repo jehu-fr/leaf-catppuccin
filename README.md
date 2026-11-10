@@ -37,7 +37,8 @@ An unofficial [Catppuccin](https://catppuccin.com/palette/) theme for [leaf](htt
 
 - **leaf 1.29.1 or newer** for full support. Tested with leaf 1.29.2.
 - A **truecolor terminal**. 256-color terminals will approximate the palette.
-- **Python 3.11+** only if you want to use the generator or validation scripts.
+- **Python 3.11+** only if you want to use the generator, validation, or preview scripts.
+- **Preview regeneration** additionally needs `pyte`, [`freeze`](https://github.com/charmbracelet/freeze), and Node.js with `npx` for the WebP conversion. See [Preview screenshots](#preview-screenshots).
 - Code blocks use syntect's bundled syntax themes: `base16-ocean.dark` for the three dark flavors and `base16-ocean.light` for Latte. The rest of the interface is full Catppuccin.
 
 ## Quick start
@@ -289,6 +290,26 @@ python3 scripts/assets.py             # regenerate assets/accents.svg and assets
 
 `scripts/check.py` verifies all 56 files, the 35/47/17 key counts, `#rrggbb` values, flavor presets, accent isolation, and a set of foreground/background contrast pairs. All 56 themes were also loaded through leaf 1.29.2 with a temporary `XDG_CONFIG_HOME`.
 
+### Preview screenshots
+
+The README previews are generated separately from the themes. `scripts/preview.py` runs leaf on the showcase document in a pseudo-terminal, replays the capture through `pyte`, and renders the final screen with [`freeze`](https://github.com/charmbracelet/freeze). Unlike `termshot`, freeze paints ANSI backgrounds for the full line pitch, so the theme background stays continuous between terminal rows.
+
+Install the preview-only dependencies:
+
+```bash
+python3 -m pip install -r scripts/requirements-preview.txt
+GOBIN=~/.local/bin go install github.com/charmbracelet/freeze@latest
+```
+
+`npx` is used for the final 1600px WebP conversion. Then run from the repository root:
+
+```bash
+python3 scripts/preview.py              # all four flavors
+python3 scripts/preview.py --flavor mocha
+```
+
+The script uses a temporary `XDG_CONFIG_HOME`, so it never reads or writes your live leaf configuration. It writes `assets/preview-<flavor>.webp` and keeps `assets/preview.webp` as the Frappé alias. Set `FREEZE_BIN` or `NPX_BIN` if those tools are not on `PATH`.
+
 ## Compatibility
 
 - Full support: **leaf 1.29.1+**.
@@ -307,6 +328,8 @@ src/template.toml          99-key leaf theme template
 scripts/generate.py        generator CLI
 scripts/check.py           schema and contrast validation
 scripts/assets.py          SVG asset generator
+scripts/preview.py         README preview generator (pyte + freeze)
+scripts/requirements-preview.txt  preview-only Python dependency
 docs/ACCENTS.md            accent reference and recipes
 assets/                    previews, accent grid, palette card
 demo/demo.md               showcase document used for previews

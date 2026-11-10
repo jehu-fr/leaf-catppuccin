@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Fixed the README previews showing dark horizontal gaps between terminal lines by replacing `termshot` with `freeze`, which paints ANSI backgrounds for the full line pitch.
+- Added `scripts/preview.py` and `scripts/requirements-preview.txt` so the previews can be regenerated reproducibly without touching the live leaf configuration.
+
 ## 1.1.0 - 2026-11-09
 
 - Added **Latte**, **Macchiato**, and **Mocha** alongside Frappé.

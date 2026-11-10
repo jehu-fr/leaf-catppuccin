@@ -1,40 +1,41 @@
-# Catppuccin Frappé
+# Catppuccin Mocha
 
-A soothing pastel theme for **leaf** with a **Mauve** accent. This preview shows the TOC, headings, links, inline code, tables, callouts, tasks, and fenced code.
+A soothing pastel theme for **leaf** with all four flavors and 14 accents. This preview shows the TOC, headings, links, inline code, tables, callouts, tasks, and fenced code.
 
 ## Highlights
 
-- Mauve accents for headings and navigation
+- Latte, Frappé, Macchiato, and Mocha
+- 14 accents, with Mauve as the default
 - Full `[ui]`, `[markdown]`, and `[diff]` coverage
-- Works with `theme = "catppuccin-frappe"`
+- Works with `theme = "catppuccin-mocha"`
 
 > [!NOTE]
-> Catppuccin Frappé is a muted dark palette designed for long reading sessions.
+> Catppuccin Mocha is a dark palette designed for long reading sessions.
 
 ## Palette
 
 | Color | Hex | Role |
 |-------|-----|------|
-| Base | `#303446` | Background |
-| Mauve | `#ca9ee6` | Accent |
-| Blue | `#8caaee` | Links |
-| Green | `#a6d189` | Success |
-| Peach | `#ef9f76` | Inline code |
+| Base | `#1e1e2e` | Background |
+| Mauve | `#cba6f7` | Accent |
+| Blue | `#89b4fa` | Links |
+| Green | `#a6e3a1` | Success |
+| Peach | `#fab387` | Inline code |
 
 ## Code
 
 ```rust
 fn main() {
-    let flavor = "frappé";
+    let flavor = "mocha";
     println!("Catppuccin {flavor} for leaf");
 }
 ```
 
 ## Tasks
 
+- [x] Four flavors
+- [x] 14 accent colors
 - [x] Full theme coverage
-- [x] Mauve accent
-- [ ] Add more flavors
 
 ## Links
 

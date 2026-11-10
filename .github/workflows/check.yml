@@ -1,0 +1,26 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  themes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check generated themes
+        run: python3 scripts/generate.py --check
+
+      - name: Validate schema, accents, and contrast
+        run: python3 scripts/check.py
